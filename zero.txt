@@ -1,3 +1,0 @@
-It will not be commited with 
-$ git commit -a -m 
-because it is new.
