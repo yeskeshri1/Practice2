@@ -1,3 +1,0 @@
-This is my first project in git.
-A bit modification on name. 
-Changed 
