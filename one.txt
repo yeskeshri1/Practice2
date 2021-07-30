@@ -1,2 +1,3 @@
 hey their
-I am learning Git
+I am learning Git but I am Unable to add you in gitIgnore
+
